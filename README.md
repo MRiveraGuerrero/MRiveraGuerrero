@@ -1,16 +1,13 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" />
-
-  <h1 align="center">Hi there, I'm Mikel Rivera Guerrero 👋</h1>
+  <h1 align="center">Mikel Rivera Guerrero</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Software+Developer;Computer+Engineering+Graduate;React+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <b>Turning coffee into code and ideas into reality.</b>
-  </p>
+  <br/>
+  <br/>
 
   <p align="center">
     <a href="https://www.github.com/MRiveraGuerrero" target="_blank">
@@ -32,13 +29,19 @@
 
 ### 🚀 About Me
 
-</div>
+<p align="center">
+  🌍 Based in <b>Spain, Basque Country</b>
+  <br/>
+  🔭 Currently working on <a href="http://www.biskyteam.com/"><b>BiskyTeam</b></a>
+  <br/>
+  🧠 Deepening my knowledge in <b>React & Modern Web Tech</b>
+  <br/>
+  🤝 Open to collaborating on <b>innovative and challenging projects</b>
+  <br/>
+  ⚡ Fun fact: <b>I love solving complex problems with simple solutions.</b>
+</p>
 
-- 🌍 Based in **Spain, Basque Country**
-- 🔭 Currently working on **[BiskyTeam](http://www.biskyteam.com/)**
-- 🧠 Deepening my knowledge in **React & Modern Web Tech**
-- 🤝 Open to collaborating on **innovative and challenging projects**
-- ⚡ Fun fact: **I love solving complex problems with simple solutions.**
+</div>
 
 ---
 
@@ -119,18 +122,11 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MRiveraGuerrero&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=MRiveraGuerrero&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Activity Graph" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=MRiveraGuerrero&show_icons=true&theme=dark&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiveraGuerrero&layout=compact&theme=dark&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MRiveraGuerrero&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiveraGuerrero&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 </div>
