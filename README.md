@@ -34,13 +34,13 @@
 <p align="center">
   🌍 Based in <b>Spain, Basque Country</b>
   <br/>
-  🔭 Currently working on <a href="http://www.biskyteam.com/"><b>BiskyTeam</b></a>
+  🔭 Currently working on <a href="http://www.deloitte.com/"><b>Deloitte</b></a>
   <br/>
-  🧠 Deepening my knowledge in <b>React & Modern Web Tech</b>
+  🧠 Deepening my knowledge in <b>Modern Web Tech</b>
   <br/>
   🤝 Open to collaborating on <b>innovative and challenging projects</b>
   <br/>
-  ⚡ Fun fact: <b>I love solving complex problems with simple solutions.</b>
+  ⚡<b>I love solving complex problems with simple solutions.</b>
 </p>
 
 </div>
