@@ -1,7 +1,9 @@
 <div align="center">
 
-  <h1 align="center">Mikel Rivera Guerrero</h1>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Mikel%20Rivera%20Guerrero&fontSize=70&fontAlign=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+
+  <br/>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Software+Developer;Computer+Engineering+Graduate;React+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
   </a>
@@ -118,15 +120,14 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### ⚡ Just for Fun
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MRiveraGuerrero&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiveraGuerrero&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" alt="Random Dev Joke" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MRiveraGuerrero&style=flat-square&label=Profile+Views&color=0891b2" alt="Profile Views" />
 
 </div>
